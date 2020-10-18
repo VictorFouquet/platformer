@@ -1,0 +1,2 @@
+# platformer
+pip install pynput
